@@ -121,6 +121,7 @@ drwxr-xr-x  sandeep  data  [Project 03]  Deep-Agent Data Lab (Autonomous Agentic
 <h3><code>sandeep@data-platform ~ $ ./connect.sh</code></h3>
 
 <p>
+  <a href="https://drive.google.com/file/d/1bGpO6NkjPKiJJ5tivDBZmNyHuaeScXl_/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://sandeepmegharaj.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sandeep-megharaj-87a9b525b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/sandeeepmegh"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
