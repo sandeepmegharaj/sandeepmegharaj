@@ -1,127 +1,10 @@
-<div align="center">
+# Sandeep Megharaj
+A stubborn problem-solver in pursuit of building intelligent systems and scalable data platforms.<br>
+Data Engineer & AI / Agentic Developer based in Hyderabad, India.<br>
+Whatever it is, wherever I end up at — blending legacy data engineering with AI efficiency!
 
-<!-- ========================================== -->
-<!-- 1. LIVE ANIMATED CONTRIBUTION HEATMAP -->
-<!-- Auto-refreshed daily by GitHub Actions -->
-<!-- ========================================== -->
-
-<h3><code>sandeep@data-platform ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Sandeep Megharaj Contribution Graph" />
-
-<br><br>
-
-<!-- ========================================== -->
-<!-- 2. ANIMATED ASCII PORTRAIT + NEOFETCH INFO -->
-<!-- ========================================== -->
-
-<h3><code>sandeep@data-platform ~ $ whoami --expertise</code></h3>
-
-<table>
-  <tr>
-    <td valign="top">
-      <img src="./sandeep-ascii.svg" width="420" alt="Sandeep Megharaj - ASCII Portrait" />
-    </td>
-    <td valign="top">
-      <img src="./info-card.svg" width="420" alt="Sandeep Megharaj - Data Engineer Info Card" />
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-<!-- ========================================== -->
-<!-- 3. FEATURED DATA ENGINEERING & AI PROJECTS -->
-<!-- ========================================== -->
-
-<h3><code>sandeep@data-platform ~ $ ls -la ./featured-projects/</code></h3>
-
-</div>
-
-```
-drwxr-xr-x  sandeep  data  [Project 01]  Apex F1: Data Platform & AI Knowledge Assistant
-drwxr-xr-x  sandeep  data  [Project 02]  Sterling Financial Analytics (Microsoft Fabric + Azure AI)
-drwxr-xr-x  sandeep  data  [Project 03]  Deep-Agent Data Lab (Autonomous Agentic Analytics)
-```
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏎️ 01. Apex F1: Data Platform & AI</h3>
-      <p>
-        Formula 1 analytical data engineering platform with <b>Medallion architecture</b> (Bronze, Silver, Gold star schema) on <b>Databricks Lakehouse</b> & <b>Delta Lake</b>, <b>Apache Airflow</b> orchestration, <b>DuckDB</b> OLAP queries, and a Streamlit-powered RAG knowledge assistant.
-      </p>
-      <p>
-        <b>Tech:</b> <code>Databricks</code> <code>Delta Lake</code> <code>Apache Airflow</code> <code>PySpark</code> <code>DuckDB</code> <code>RAG</code>
-      </p>
-      <p>
-        🔗 <a href="https://f1agent.streamlit.app/"><b>Live Application</b></a> &nbsp;|&nbsp; 💻 <a href="https://github.com/sandeepmegharaj/F1-Analysis-and-RAG-Agent"><b>GitHub Repository</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 02. Sterling Financial Analytics</h3>
-      <p>
-        End-to-end financial data engineering and lakehouse warehousing system built on <b>Microsoft Fabric Lakehouse</b> and <b>Delta Lake</b>, integrated with <b>Azure AI Foundry</b> (Azure OpenAI) for automated predictive insights and interactive Power BI dashboards.
-      </p>
-      <p>
-        <b>Tech:</b> <code>Microsoft Fabric</code> <code>Delta Lake</code> <code>Azure AI Foundry</code> <code>Power BI</code> <code>SQL</code>
-      </p>
-      <p>
-        🔗 <a href="https://sandeepmegharaj.github.io/Sterling-Financial-Analytics-Power-BI-Fabric/"><b>Technical Docs</b></a> &nbsp;|&nbsp; 💻 <a href="https://github.com/sandeepmegharaj/Sterling-Financial-Analytics-Power-BI-Fabric"><b>GitHub Repository</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🤖 03. Deep-Agent Data Lab</h3>
-      <p>
-        Autonomous agentic AI workspace built with Python, Streamlit, LangChain, and Azure OpenAI. It plans tasks, conducts research via Tavily, analyzes structured datasets in the Data Lab, and generates dashboards and reports to augment data analyst workflows.
-      </p>
-      <p>
-        <b>Tech:</b> <code>Python</code> <code>Streamlit</code> <code>LangChain</code> <code>Azure OpenAI</code> <code>Tavily</code> <code>Data Analysis</code>
-      </p>
-      <p>
-        🔗 <a href="https://deepagent.streamlit.app/"><b>Live Demo</b></a> &nbsp;|&nbsp; 💻 <a href="https://github.com/sandeepmegharaj/Deepagent"><b>GitHub Repository</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<!-- ========================================== -->
-<!-- 4. TECH STACK BADGES -->
-<!-- ========================================== -->
-
-<h3><code>sandeep@data-platform ~ $ cat ./tech_stack.json</code></h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<br>
-
-<!-- ========================================== -->
-<!-- 5. CONNECT & CONTACT -->
-<!-- ========================================== -->
-
-<h3><code>sandeep@data-platform ~ $ ./connect.sh</code></h3>
-
-<p>
-  <a href="https://drive.google.com/file/d/1bGpO6NkjPKiJJ5tivDBZmNyHuaeScXl_/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+<p align="left">
+  <a href="https://drive.google.com/file/d/1ZlzMDMrayFWdnB2ppx0SX_0OFtzS7zyp/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://sandeepmegharaj.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sandeep-megharaj-87a9b525b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/sandeeepmegh"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -129,4 +12,60 @@ drwxr-xr-x  sandeep  data  [Project 03]  Deep-Agent Data Lab (Autonomous Agentic
   <a href="mailto:sandeepmegharaj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-</div>
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=for-the-badge&logo=databricks&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=for-the-badge&logo=apachespark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-%23017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-%2300ADD8.svg?style=for-the-badge&logo=databricks&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandeepmegharaj/sandeepmegharaj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandeepmegharaj/sandeepmegharaj/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sandeepmegharaj/sandeepmegharaj/output/github-snake.svg" />
+</picture>
+
+## 🚀 Featured Projects:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏎️ Apex F1: Data Platform & AI</h3>
+      <p>
+        Formula 1 analytical data engineering platform with <b>Medallion architecture</b> (Bronze, Silver, Gold star schema) on <b>Databricks Lakehouse</b> & <b>Delta Lake</b>, <b>Apache Airflow</b> orchestration, <b>DuckDB</b> OLAP queries, and a Streamlit-powered RAG knowledge assistant.
+      </p>
+      <p>
+        <b>Tech:</b> <code>Databricks</code> <code>Delta Lake</code> <code>Apache Airflow</code> <code>PySpark</code> <code>DuckDB</code> <code>RAG</code>
+      </p>
+      <p>
+        🔗 <a href="https://f1agent.streamlit.app/"><b>Live App</b></a> &nbsp;|&nbsp; 💻 <a href="https://github.com/sandeepmegharaj/F1-Analysis-and-RAG-Agent"><b>Repository</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Sterling Financial Analytics</h3>
+      <p>
+        End-to-end financial data engineering and lakehouse warehousing system built on <b>Microsoft Fabric Lakehouse</b> and <b>Delta Lake</b>, integrated with <b>Azure AI Foundry</b> (Azure OpenAI) for automated predictive insights and interactive Power BI dashboards.
+      </p>
+      <p>
+        <b>Tech:</b> <code>Microsoft Fabric</code> <code>Delta Lake</code> <code>Azure AI Foundry</code> <code>Power BI</code> <code>SQL</code>
+      </p>
+      <p>
+        🔗 <a href="https://sandeepmegharaj.github.io/Sterling-Financial-Analytics-Power-BI-Fabric/"><b>Technical Docs</b></a> &nbsp;|&nbsp; 💻 <a href="https://github.com/sandeepmegharaj/Sterling-Financial-Analytics-Power-BI-Fabric"><b>Repository</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🤖 Deep-Agent Data Lab</h3>
+      <p>
+        Autonomous agentic AI workspace built with Python, Streamlit, LangChain, and Azure OpenAI. It plans tasks, conducts research via Tavily, analyzes structured datasets in the Data Lab, and generates dashboards and reports to augment data analyst workflows.
+      </p>
+      <p>
+        <b>Tech:</b> <code>Python</code> <code>Streamlit</code> <code>LangChain</code> <code>Azure OpenAI</code> <code>Tavily</code> <code>Data Analysis</code>
+      </p>
+      <p>
+        🔗 <a href="https://deepagent.streamlit.app/"><b>Live Demo</b></a> &nbsp;|&nbsp; 💻 <a href="https://github.com/sandeepmegharaj/Deepagent"><b>Repository</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 📊 Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=sandeepmegharaj&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sandeepmegharaj&show_icons=true&theme=dark&hide_border=true)<br/>
