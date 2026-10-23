@@ -4,11 +4,8 @@ Data Engineer & AI / Agentic Developer based in Hyderabad, India.<br>
 Whatever it is, wherever I end up at — blending legacy data engineering with AI efficiency!
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1ZlzMDMrayFWdnB2ppx0SX_0OFtzS7zyp/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
   <a href="https://sandeepmegharaj.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/sandeep-megharaj-87a9b525b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/sandeeepmegh"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://medium.com/@sandeepmegharaj"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="mailto:sandeepmegharaj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
