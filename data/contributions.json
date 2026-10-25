@@ -1,22 +1,22 @@
 {
   "user": "sandeepmegharaj",
-  "total_contributions": 104,
-  "active_days": 20,
-  "avg_per_active_day": 5.2,
+  "total_contributions": 106,
+  "active_days": 21,
+  "avg_per_active_day": 5.0,
   "best_day": {
     "date": "2026-07-26",
     "count": 22,
     "level": 4
   },
   "current_streak": {
-    "length": 2,
+    "length": 3,
     "start": "2026-10-23",
-    "end": "2026-10-24"
+    "end": "2026-10-25"
   },
   "longest_streak": {
-    "length": 2,
-    "start": "2026-07-20",
-    "end": "2026-07-21"
+    "length": 3,
+    "start": "2026-10-23",
+    "end": "2026-10-25"
   },
   "monthly": {
     "2025-10": 0,
@@ -31,44 +31,9 @@
     "2026-07": 36,
     "2026-08": 3,
     "2026-09": 3,
-    "2026-10": 49
+    "2026-10": 51
   },
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-10-26",
       "count": 0,
@@ -1886,8 +1851,13 @@
     },
     {
       "date": "2026-10-24",
-      "count": 5,
-      "level": 2
+      "count": 6,
+      "level": 3
+    },
+    {
+      "date": "2026-10-25",
+      "count": 1,
+      "level": 1
     }
   ]
 }
